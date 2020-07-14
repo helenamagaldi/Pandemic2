@@ -1,0 +1,2 @@
+# Pandemic
+Bootstrap oriented project 
